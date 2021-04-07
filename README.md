@@ -1,4 +1,4 @@
-# Financial-Engineering
+# Financial Engineering
 
 this notebook is about using finanacial engineering technics to price and hedge in the commodities market (Gold, Copper, Grains, metals ... ), it contain these parts:
 
